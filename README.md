@@ -12,7 +12,10 @@ A modern **Jetpack Compose-based** News App that fetches and displays the latest
 - 🏗️ Dependency Injection with **Hilt**
 
 ## 📸 Screenshots
-
+   ![SS1](https://github.com/kdhyani200/news_app/blob/main/Light1.png)
+   ![SS2](https://github.com/kdhyani200/news_app/blob/main/Light2.png)
+   ![SS3](https://github.com/kdhyani200/news_app/blob/main/Dark1.png)
+   ![SS4](https://github.com/kdhyani200/news_app/blob/main/Dark2.png)
 
 ## 🛠️ Tech Stack
 - **Kotlin** - Programming Language
